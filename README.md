@@ -67,7 +67,7 @@
 
  <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=sabt-dev&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
 
 </div>
@@ -77,7 +77,7 @@
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=sabt-dev&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
  
@@ -93,14 +93,6 @@
 </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
-
 ---
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
-------
-
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 26/02/2025
