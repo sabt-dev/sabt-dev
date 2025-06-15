@@ -8,9 +8,6 @@
 </p>
 
 
-
-## 🛠 &nbsp;Tech Stack
-
 ## 📊 Profile Statistics
 
  <div align=center>
